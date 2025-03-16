@@ -1,0 +1,41 @@
+.hero_section{
+    background: linear-gradient(135deg, #0d0d0d, #1a1a1a);
+    color: white;
+    padding: 80px 0;
+    text-align: left;
+}
+.hero-section {
+    background: linear-gradient(135deg, #0d0d0d, #1a1a1a);
+    color: white;
+    padding: 80px 0;
+    text-align: left;
+  }
+  
+  .title {
+    font-size: 50px;
+    font-weight: bold;
+  }
+  
+  .typed-text {
+    font-size: 35px;
+    font-weight: bold;
+    color: #007bff;
+  }
+  
+  .description {
+    margin-top: 15px;
+    font-size: 16px;
+    opacity: 0.8;
+  }
+  
+  .btn-custom {
+    margin-top: 20px;
+  }
+  
+  .profile-image {
+    width: 100%;
+    max-width: 350px;
+    border-radius: 10px;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3);
+  }
+  
