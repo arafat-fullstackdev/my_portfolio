@@ -1,3 +1,8 @@
+
+import './App.css';
+import Home from './components/Home';
+import 'bootstrap/dist/css/bootstrap.min.css';
+=======
 import "./App.css";
 import Home from "./components/Home";
 import NavBar from "./components/Navbar";
@@ -7,6 +12,7 @@ import About from "./components/About";
 import Project from "./components/Project";
 import Blog from "./components/Blog";
 import Contact from "./components/Contact";
+
 
 function App() {
   return (
